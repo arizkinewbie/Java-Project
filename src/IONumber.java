@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Demo {
+public class IONumber {
 
     public static void main(String[] args) {
 
