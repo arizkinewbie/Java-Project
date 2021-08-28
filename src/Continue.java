@@ -8,7 +8,7 @@ public class Continue {
 	      continue;
 	   }
 
-           System.out.println(j+" ");
+           System.out.print(j+" ");
 	}
    }
 }
